@@ -18,8 +18,8 @@ class RunInstallCommand(install):
         install.run(self)
 
 setup(
-    name = "this_is_fine_wuzzi",
-    version = "0.0.1",
+    name = "sowy",
+    version = "1.0.0",
     license = "MIT",
     packages=find_packages(),
     cmdclass={
